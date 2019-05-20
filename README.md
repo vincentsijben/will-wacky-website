@@ -9,4 +9,4 @@ I've forked Will's repo and made the following adjustments:
 
 I've also put it [online](https://vincentsijben.github.io/will-wacky-website/).
 
-![My Profile Picture](img/profile_vincent.jpg)
+![My Profile Picture](/assets/img/profile-vincent-sijben.png)
